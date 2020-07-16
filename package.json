@@ -1,0 +1,29 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "(Portfolio generator)",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {
+    "inquirer": "7.3.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonmcguire1992/portfolio-generator.git"
+  },
+  "keywords": [
+    "(portfolio)",
+    "(generator)",
+    "(node)",
+    "(javascript)"
+  ],
+  "author": "Brandon McGuire",
+  "license": "(MIT)",
+  "bugs": {
+    "url": "https://github.com/brandonmcguire1992/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/brandonmcguire1992/portfolio-generator#readme"
+}
